@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanda.rsc@icloud.com**
 
-- 📄 Know about my experiences [https://saichandan.vercel.app/assets/images/Reddy%20Sai%20Chandna%20Sanda.pdf](https://saichandan.vercel.app/assets/images/Reddy%20Sai%20Chandna%20Sanda.pdf)
+- 📄 Know about my experiences [https://saichandan.vercel.app/assets/images/Reddy%20Sai%20Chandna%20Sanda.pdf](https://saichandan.vercel.app/assets/images/Sanda%20Reddy%20Sai%20Chandan-Eng21am0108.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
