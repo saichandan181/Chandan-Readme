@@ -1,37 +1,103 @@
-<h1 align="center">Hi 👋, I'm Sai Chandan</h1>
-<h3 align="center">A passionate frontend developer and AI ML driven Student from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanda%20Reddy%20Sai%20Chandan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Agents%20%E2%80%A2%20Salesforce%20Platform%20%E2%80%A2%20Full-Stack&descAlignY=52&descSize=16" width="100%" />
+  <a href="https://github.com/saichandan181">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+autonomous+AI+agents;Salesforce+%2B+Agentforce+engineer;Python+%E2%80%A2+TypeScript+%E2%80%A2+Apex;Automating+the+boring+parts+of+software" alt="Typing SVG" />
+  </a>
+  <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saichandan181&label=Profile%20views&color=0e75b6&style=flat" alt="saichandan181" /> </p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://trailblazer.me/id/YOUR-TRAILBLAZER"><img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer"/></a>
+  <img src="https://komarev.com/ghpvc/?username=saichandan181&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/saichandan181?tab=followers"><img src="https://img.shields.io/github/followers/saichandan181?style=for-the-badge&color=36BCF7&labelColor=0f2027" alt="Followers"/></a>
+</div>
 
+## 🧠 About
 
+```yaml
+name: Sanda Reddy Sai Chandan
+role: Software Engineer @ Unisys
+focus:
+  - Autonomous AI agents & multi-agent orchestration
+  - Salesforce platform engineering (Agentforce, Apex, Flow, Tooling API)
+  - Cross-platform mobile apps with React Native + Expo
+  - AI-assisted developer tooling & test automation
+currently_building:
+  - Agentforce agent for automated Flow metadata cleanup
+  - AI-driven integration test pipeline (Claude Agent SDK + FastAPI + Podman)
+philosophy: "If I do it twice, an agent should do it the third time."
+open_to: collaboration on agentic tooling & dev-productivity projects
+```
 
-- 🔭 I’m currently working on [Generative AI models](https://github.com/saichandan181/Gemini-Vision-pro)
+## 🛠 Tech Stack
 
-- 🌱 I’m currently learning **LLM,GEN AI,Deeplearning**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://saichandan.vercel.app/](https://saichandan.vercel.app/)
+**Languages**
 
-- 💬 Ask me about **HTML, CSS, JS, Python, Java**
+**AI & Agents**
 
-- 📫 How to reach me **sanda.rsc@icloud.com**
+**Backend & Frontend**
 
-- 📄 Know about my experiences [https://saichandan.vercel.app/assets/images/Reddy%20Sai%20Chandna%20Sanda.pdf](https://saichandan.vercel.app/assets/images/Sanda%20Reddy%20Sai%20Chandan-Eng21am0108.pdf)
+**Mobile**
 
-- ⚡ Fun fact **I think I am funny**
+**Cloud & DevOps**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saichandan181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saichandan181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reddy-sai-chandan-851102300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reddy-sai-chandan-851102300" height="30" width="40" /></a>
-<a href="https://instagram.com/saichandan.sanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saichandan.sanda" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/saichandan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saichandan" /></a></p><br><br>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| polyagent | Multi-tenant trading agent for Polymarket — isolated per-tenant strategy execution | TypeScript |
+| testvibe-pos | AI-assisted test generation & execution surface for POS workflows | TypeScript |
+| backendapi-pos | Python API layer powering the POS platform | Python, FastAPI |
+| aiexpensetracker | Expense tracking with LLM-based categorization & insights | HTML, JS |
+| onlyus | Full-stack side project in TypeScript | TypeScript |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saichandan181&show_icons=true&locale=en&layout=compact" alt="saichandan181" /></p>
+<div align="right"><a href="https://github.com/saichandan181?tab=repositories">→ all 40 repositories</a></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saichandan181&" alt="saichandan181" /></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saichandan181&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandan181&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top langs" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=saichandan181&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saichandan181&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" alt="activity graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saichandan181&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
+
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saichandan181/saichandan181/output/snake.svg" alt="snake animation" />
+</div>
+</details>
+
+<details>
+<summary><b>📌 What I'm learning right now</b></summary>
+
+- Multi-agent orchestration patterns (planner → worker → verifier loops)
+- MCP server design and tool allowlisting for enterprise guardrails
+- Sandboxed agent execution with rootless containers
+- Evaluation harnesses for non-deterministic AI output
+
+</details>
+
+<details>
+<summary><b>💬 Ask me about</b></summary>
+
+- Wiring AI agents into Salesforce without blowing up governor limits
+- The Flow 50-version cap and how to actually live with it
+- Getting an LLM to write tests that don't just assert true === true
+- Shipping React Native apps with Expo — EAS builds, OTA updates, and the config-plugin escape hatch when a native module fights back
+
+</details>
+
+<div align="center">
+
+### ⭐️ If any of this is useful, a star goes a long way.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</div>
