@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Chandan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&descAlignY=52&descSize=16&desc=Mobile%20App%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Salesforce" width="100%" />
 
 <a href="https://saichandan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=540&lines=Mobile+App+Developer+%7C+React+Native+%2B+Expo;Building+autonomous+AI+agents;Generative+AI+%26+deep+learning;Salesforce+%2B+Agentforce+engineering;I+think+I+am+funny+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;React+Native+%2B+Expo;Generative+AI+%26+Deep+Learning;Autonomous+AI+Agents;Salesforce+%2B+Agentforce;I+think+I+am+funny" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -125,23 +125,6 @@ fun_fact: "I think I am funny."
 <div align="right">
 <a href="https://github.com/saichandan181?tab=repositories">→ browse all repositories</a> &nbsp;·&nbsp;
 <a href="https://saichandan.vercel.app/">→ full portfolio</a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saichandan181&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandan181&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top langs" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=saichandan181&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saichandan181&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=saichandan181&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
 </div>
 
 ---
