@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Chandan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Salesforce&descAlignY=52&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Chandan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&descAlignY=52&descSize=16&desc=Mobile%20App%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Salesforce" width="100%" />
 
 <a href="https://saichandan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=540&lines=Building+autonomous+AI+agents;Generative+AI+%26+deep+learning;React+Native+%2B+Expo+for+mobile;Salesforce+%2B+Agentforce+engineering;I+think+I+am+funny+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=540&lines=Mobile+App+Developer+%7C+React+Native+%2B+Expo;Building+autonomous+AI+agents;Generative+AI+%26+deep+learning;Salesforce+%2B+Agentforce+engineering;I+think+I+am+funny+%F0%9F%98%8E" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://saichandan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://saichandan.vercel.app/assets/images/Sanda%20Reddy%20Sai%20Chandan-Eng21am0108.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
 <a href="https://linkedin.com/in/reddy-sai-chandan-851102300"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/saichandan181"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://instagram.com/saichandan.sanda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -30,10 +29,11 @@
 ```yaml
 name: Sanda Reddy Sai Chandan
 location: India 🇮🇳
+role: Mobile App Developer & AI/ML Engineer
 focus:
+  - Mobile app development with React Native + Expo (iOS & Android)
   - Generative AI, LLMs & deep learning
   - Autonomous AI agents & multi-agent orchestration
-  - Cross-platform mobile apps with React Native + Expo
   - Salesforce platform engineering (Agentforce, Apex, Flow, Tooling API)
   - Full-stack web (React / Next.js / Node / Python)
 currently_learning: [LLMs, Generative AI, Deep Learning, Agentic Systems]
@@ -145,14 +145,6 @@ fun_fact: "I think I am funny."
 </div>
 
 ---
-
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saichandan181/saichandan181/output/snake.svg" alt="snake animation" />
-</div>
-</details>
 
 <details>
 <summary><b>📌 What I'm learning right now</b></summary>
